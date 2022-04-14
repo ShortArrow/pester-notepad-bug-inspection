@@ -5,6 +5,8 @@
 When run `Invoke-Pester -Output Diagnostic`,
 open main.psm1 with notepad.exe on line 4 on [main.Tests.ps1](test/main.Tests.ps1).
 
+Same quantity of `It` functions and `notepad` windows.
+
 ![alt](lib/notepad_shown.png)
 
 ## Environment
